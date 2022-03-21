@@ -1,0 +1,7 @@
+{
+  "name": "vooma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
